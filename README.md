@@ -1,4 +1,4 @@
-# Bootstrap-Figma
+# Figma
 
 Desktop:
 https://www.figma.com/proto/z0qLzxj0r4hNQzwWphj5o0/Stitchify---Desktop?node-id=11-893&starting-point-node-id=11%3A893&mode=design&t=uKwPMHxJOUmCWAK2-1
